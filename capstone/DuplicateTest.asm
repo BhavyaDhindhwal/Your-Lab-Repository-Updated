@@ -1,0 +1,7 @@
+(LOOP)
+@LOOP
+0;JMP
+
+(LOOP)
+@LOOP
+0;JMP
