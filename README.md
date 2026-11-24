@@ -50,48 +50,45 @@ Your-Lab-Repository/
 
 All proof images are embedded below and stored in `capstone/Proof/`.
 
-### Screenshot 2026-11-20 204218
+CPU.hdl
 
 ![Screenshot 2026-11-20 204218.png](<capstone/Proof/Screenshot 2026-11-20 204218.png>)
 
-### WhatsApp Image 2026-11-22 at 9.03.26 PM
+ ComputerAdd
 
 ![WhatsApp Image 2026-11-22 at 9.03.26 PM.jpeg](<capstone/Proof/WhatsApp Image 2026-11-22 at 9.03.26 PM.jpeg>)
 
-### WhatsApp Image 2026-11-22 at 9.03.51 PM
+ ComputerMax
 
 ![WhatsApp Image 2026-11-22 at 9.03.51 PM.jpeg](<capstone/Proof/WhatsApp Image 2026-11-22 at 9.03.51 PM.jpeg>)
 
-### WhatsApp Image 2026-11-22 at 9.04.02 PM
-
+ ComputerRect
 ![WhatsApp Image 2026-11-22 at 9.04.02 PM.jpeg](<capstone/Proof/WhatsApp Image 2026-11-22 at 9.04.02 PM.jpeg>)
 
-### WhatsApp Image 2026-11-22 at 9.04.25 PM
+ Max.hack
 
 ![WhatsApp Image 2026-11-22 at 9.04.25 PM.jpeg](<capstone/Proof/WhatsApp Image 2026-11-22 at 9.04.25 PM.jpeg>)
 
-### WhatsApp Image 2026-11-22 at 9.04.36 PM
+ python assembler.py Rect.asm
 
 ![WhatsApp Image 2026-11-22 at 9.04.36 PM.jpeg](<capstone/Proof/WhatsApp Image 2026-11-22 at 9.04.36 PM.jpeg>)
 
-### WhatsApp Image 2026-11-22 at 9.04.46 PM
+ python assembler.py Pong.asm
 
 ![WhatsApp Image 2026-11-22 at 9.04.46 PM.jpeg](<capstone/Proof/WhatsApp Image 2026-11-22 at 9.04.46 PM.jpeg>)
 
-### WhatsApp Image 2026-11-22 at 9.04.54 PM
+ python assembler.py DuplicateTest.asm
 
 ![WhatsApp Image 2026-11-22 at 9.04.54 PM.jpeg](<capstone/Proof/WhatsApp Image 2026-11-22 at 9.04.54 PM.jpeg>)
 
-### WhatsApp Image 2026-11-22 at 9.05.07 PM
+ Add.hack
 
 ![WhatsApp Image 2026-11-22 at 9.05.07 PM.jpeg](<capstone/Proof/WhatsApp Image 2026-11-22 at 9.05.07 PM.jpeg>)
 
-### WhatsApp Image 2026-11-22 at 9.05.16 PM
-
+ python assembler.py Box.asm
 ![WhatsApp Image 2026-11-22 at 9.05.16 PM.jpeg](<capstone/Proof/WhatsApp Image 2026-11-22 at 9.05.16 PM.jpeg>)
 
-### WhatsApp Image 2026-11-22 at 9.05.56 PM
-
+ Memory.hdl
 ![WhatsApp Image 2026-11-22 at 9.05.56 PM.jpeg](<capstone/Proof/WhatsApp Image 2026-11-22 at 9.05.56 PM.jpeg>)
 
 ## Assembler
